@@ -57,4 +57,5 @@
 # Additional exercises:
 print("hey")
 print("This is really simple but important")
-print("")
+print("Python reads from the top to the bottom")
+print
