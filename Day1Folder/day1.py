@@ -56,4 +56,5 @@
 ########################################################################
 # Additional exercises:
 print("hey")
-print("")
+print("This is really simple but important")
+p
