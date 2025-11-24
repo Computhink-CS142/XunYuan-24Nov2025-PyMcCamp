@@ -57,4 +57,4 @@
 # Additional exercises:
 print("hey")
 print("This is really simple but important")
-p
+print("")
