@@ -31,6 +31,6 @@ person_answer = input("what do you call a bear with no teeth?")
 
 while person_answer != answer:
     person_answer = input("what do you call a bear with no teeth?") 
-
+print("ans correct")
 ########################################################################
 # Additional exercises:
