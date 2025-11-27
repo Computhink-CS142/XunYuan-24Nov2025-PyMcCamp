@@ -27,11 +27,11 @@
 answer = "gummy bear"
 
 person_answer = input("what do you call a bear with no teeth?")
-lives = 0
+lives = 5
 
 while person_answer != answer:
     person_answer = input("what do you call a bear with no teeth?") 
-    lives = lives + 1
+    lives = lives - 1
 print("ans correct")
 print(lives)
 ########################################################################
