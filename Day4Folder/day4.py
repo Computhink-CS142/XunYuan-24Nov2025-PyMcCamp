@@ -32,7 +32,7 @@ lives = 5
 while person_answer != answer:
     person_answer = input("what do you call a bear with no teeth?") 
     lives = lives - 1
-    if lives < 0:
+if lives < 0:
         print("u have died")
 print("ans correct")
 print(lives)
